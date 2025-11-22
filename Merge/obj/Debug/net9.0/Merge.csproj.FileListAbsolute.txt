@@ -1,0 +1,15 @@
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Merge/bin/Debug/net9.0/Merge
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Merge/bin/Debug/net9.0/Merge.deps.json
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Merge/bin/Debug/net9.0/Merge.runtimeconfig.json
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Merge/bin/Debug/net9.0/Merge.dll
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Merge/bin/Debug/net9.0/Merge.pdb
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Merge/obj/Debug/net9.0/Merge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Merge/obj/Debug/net9.0/Merge.AssemblyInfoInputs.cache
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Merge/obj/Debug/net9.0/Merge.AssemblyInfo.cs
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Merge/obj/Debug/net9.0/Merge.csproj.CoreCompileInputs.cache
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Merge/obj/Debug/net9.0/Merge.sourcelink.json
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Merge/obj/Debug/net9.0/Merge.dll
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Merge/obj/Debug/net9.0/refint/Merge.dll
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Merge/obj/Debug/net9.0/Merge.pdb
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Merge/obj/Debug/net9.0/Merge.genruntimeconfig.cache
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Merge/obj/Debug/net9.0/ref/Merge.dll
