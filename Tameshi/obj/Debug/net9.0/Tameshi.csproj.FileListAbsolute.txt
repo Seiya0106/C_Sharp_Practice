@@ -1,0 +1,15 @@
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Tameshi/obj/Debug/net9.0/Tameshi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Tameshi/obj/Debug/net9.0/Tameshi.AssemblyInfoInputs.cache
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Tameshi/obj/Debug/net9.0/Tameshi.AssemblyInfo.cs
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Tameshi/obj/Debug/net9.0/Tameshi.csproj.CoreCompileInputs.cache
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Tameshi/obj/Debug/net9.0/Tameshi.sourcelink.json
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Tameshi/bin/Debug/net9.0/Tameshi
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Tameshi/bin/Debug/net9.0/Tameshi.deps.json
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Tameshi/bin/Debug/net9.0/Tameshi.runtimeconfig.json
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Tameshi/bin/Debug/net9.0/Tameshi.dll
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Tameshi/bin/Debug/net9.0/Tameshi.pdb
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Tameshi/obj/Debug/net9.0/Tameshi.dll
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Tameshi/obj/Debug/net9.0/refint/Tameshi.dll
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Tameshi/obj/Debug/net9.0/Tameshi.pdb
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Tameshi/obj/Debug/net9.0/Tameshi.genruntimeconfig.cache
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Tameshi/obj/Debug/net9.0/ref/Tameshi.dll
