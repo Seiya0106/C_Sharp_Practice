@@ -1,0 +1,15 @@
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/List/Dic/obj/Debug/net9.0/Dic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/List/Dic/obj/Debug/net9.0/Dic.AssemblyInfoInputs.cache
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/List/Dic/obj/Debug/net9.0/Dic.AssemblyInfo.cs
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/List/Dic/obj/Debug/net9.0/Dic.csproj.CoreCompileInputs.cache
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/List/Dic/obj/Debug/net9.0/Dic.sourcelink.json
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/List/Dic/bin/Debug/net9.0/Dic
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/List/Dic/bin/Debug/net9.0/Dic.deps.json
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/List/Dic/bin/Debug/net9.0/Dic.runtimeconfig.json
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/List/Dic/bin/Debug/net9.0/Dic.dll
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/List/Dic/bin/Debug/net9.0/Dic.pdb
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/List/Dic/obj/Debug/net9.0/Dic.dll
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/List/Dic/obj/Debug/net9.0/refint/Dic.dll
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/List/Dic/obj/Debug/net9.0/Dic.pdb
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/List/Dic/obj/Debug/net9.0/Dic.genruntimeconfig.cache
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/List/Dic/obj/Debug/net9.0/ref/Dic.dll
