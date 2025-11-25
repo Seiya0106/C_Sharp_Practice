@@ -1,0 +1,15 @@
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Hairetsu/5_8/bin/Debug/net9.0/5_8
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Hairetsu/5_8/bin/Debug/net9.0/5_8.deps.json
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Hairetsu/5_8/bin/Debug/net9.0/5_8.runtimeconfig.json
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Hairetsu/5_8/bin/Debug/net9.0/5_8.dll
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Hairetsu/5_8/bin/Debug/net9.0/5_8.pdb
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Hairetsu/5_8/obj/Debug/net9.0/5_8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Hairetsu/5_8/obj/Debug/net9.0/5_8.AssemblyInfoInputs.cache
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Hairetsu/5_8/obj/Debug/net9.0/5_8.AssemblyInfo.cs
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Hairetsu/5_8/obj/Debug/net9.0/5_8.csproj.CoreCompileInputs.cache
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Hairetsu/5_8/obj/Debug/net9.0/5_8.sourcelink.json
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Hairetsu/5_8/obj/Debug/net9.0/5_8.dll
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Hairetsu/5_8/obj/Debug/net9.0/refint/5_8.dll
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Hairetsu/5_8/obj/Debug/net9.0/5_8.pdb
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Hairetsu/5_8/obj/Debug/net9.0/5_8.genruntimeconfig.cache
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Hairetsu/5_8/obj/Debug/net9.0/ref/5_8.dll
