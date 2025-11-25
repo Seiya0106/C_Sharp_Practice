@@ -1,0 +1,15 @@
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Interface/bin/Debug/net9.0/Interface
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Interface/bin/Debug/net9.0/Interface.deps.json
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Interface/bin/Debug/net9.0/Interface.runtimeconfig.json
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Interface/bin/Debug/net9.0/Interface.dll
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Interface/bin/Debug/net9.0/Interface.pdb
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Interface/obj/Debug/net9.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Interface/obj/Debug/net9.0/Interface.AssemblyInfoInputs.cache
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Interface/obj/Debug/net9.0/Interface.AssemblyInfo.cs
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Interface/obj/Debug/net9.0/Interface.csproj.CoreCompileInputs.cache
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Interface/obj/Debug/net9.0/Interface.sourcelink.json
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Interface/obj/Debug/net9.0/Interface.dll
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Interface/obj/Debug/net9.0/refint/Interface.dll
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Interface/obj/Debug/net9.0/Interface.pdb
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Interface/obj/Debug/net9.0/Interface.genruntimeconfig.cache
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Interface/obj/Debug/net9.0/ref/Interface.dll
