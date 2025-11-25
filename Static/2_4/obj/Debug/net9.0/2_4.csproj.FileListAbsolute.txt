@@ -1,0 +1,15 @@
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Static/2_4/bin/Debug/net9.0/2_4
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Static/2_4/bin/Debug/net9.0/2_4.deps.json
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Static/2_4/bin/Debug/net9.0/2_4.runtimeconfig.json
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Static/2_4/bin/Debug/net9.0/2_4.dll
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Static/2_4/bin/Debug/net9.0/2_4.pdb
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Static/2_4/obj/Debug/net9.0/2_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Static/2_4/obj/Debug/net9.0/2_4.AssemblyInfoInputs.cache
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Static/2_4/obj/Debug/net9.0/2_4.AssemblyInfo.cs
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Static/2_4/obj/Debug/net9.0/2_4.csproj.CoreCompileInputs.cache
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Static/2_4/obj/Debug/net9.0/2_4.sourcelink.json
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Static/2_4/obj/Debug/net9.0/2_4.dll
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Static/2_4/obj/Debug/net9.0/refint/2_4.dll
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Static/2_4/obj/Debug/net9.0/2_4.pdb
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Static/2_4/obj/Debug/net9.0/2_4.genruntimeconfig.cache
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Static/2_4/obj/Debug/net9.0/ref/2_4.dll
