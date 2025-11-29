@@ -1,0 +1,15 @@
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Kyopuro/A/obj/Debug/net9.0/A.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Kyopuro/A/obj/Debug/net9.0/A.AssemblyInfoInputs.cache
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Kyopuro/A/obj/Debug/net9.0/A.AssemblyInfo.cs
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Kyopuro/A/obj/Debug/net9.0/A.csproj.CoreCompileInputs.cache
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Kyopuro/A/obj/Debug/net9.0/A.sourcelink.json
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Kyopuro/A/bin/Debug/net9.0/A
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Kyopuro/A/bin/Debug/net9.0/A.deps.json
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Kyopuro/A/bin/Debug/net9.0/A.runtimeconfig.json
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Kyopuro/A/bin/Debug/net9.0/A.dll
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Kyopuro/A/bin/Debug/net9.0/A.pdb
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Kyopuro/A/obj/Debug/net9.0/A.dll
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Kyopuro/A/obj/Debug/net9.0/refint/A.dll
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Kyopuro/A/obj/Debug/net9.0/A.pdb
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Kyopuro/A/obj/Debug/net9.0/A.genruntimeconfig.cache
+/Users/kitagawashizukanari/Documents/C_Sharp_Practice/Kyopuro/A/obj/Debug/net9.0/ref/A.dll
